@@ -9,6 +9,7 @@
   "source": "src/index",
   "files": [
     "android",
+    "ios",
     "src",
     "lib",
     "!**/__tests__",
